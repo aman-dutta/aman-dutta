@@ -1,3 +1,5 @@
+<img align='right' src='Assets/entry.jpg' width='480"'>
+
 ### Hi there 👋
 
 <!--
