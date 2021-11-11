@@ -1,4 +1,4 @@
-<img align='right' src='Assets/entry.jpg' width='480"'>
+<img align='right' src='Assets/Entry.gif' width='480"'>
 
 # Aman Dutta :bowtie:
 
