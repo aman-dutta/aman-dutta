@@ -1,6 +1,6 @@
 <img align='right' src='Assets/Entry.gif' width='480"'>
 
-# Aman Dutta :bowtie:
+Aman Dutta :bowtie:
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/amandutta004/)
 <a href="mailto:amandutta004@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
